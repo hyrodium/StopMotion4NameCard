@@ -1,0 +1,2 @@
+# StopMotion4NameCard
+画像処理でストップモーションをやっていく
