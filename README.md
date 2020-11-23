@@ -1,6 +1,9 @@
 # StopMotion4NameCard
 画像処理でストップモーションをやっていく
 
+詳細はzenn.devに書く記事をご覧ください。\
+(2020/12/01公開予定)
+
 ## これを
 ![](https://media2.giphy.com/media/2iqIYEL0jMCO0r6fIL/giphy.gif)
 
