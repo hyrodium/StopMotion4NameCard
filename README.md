@@ -5,7 +5,7 @@
 (2020/12/01公開予定)
 
 ## これを
-![](https://media2.giphy.com/media/2iqIYEL0jMCO0r6fIL/giphy.gif)
+![](output_movies/namecard_old.gif)
 
 ## こんな感じに作り直します
 ![](output_movies/namecard.gif)
