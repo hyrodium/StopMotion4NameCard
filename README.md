@@ -1,8 +1,7 @@
 # StopMotion4NameCard
 画像処理でストップモーションをやっていく
 
-詳細はzenn.devに書く記事をご覧ください。\
-(2020/12/01公開予定)
+詳細: https://zenn.dev/hyrodium/articles/5dc951f378b46bedb211
 
 ## これを
 ![](output_movies/namecard_old.gif)
